@@ -6,4 +6,7 @@ Link: [https://leetcode.com/problem-list/top-interview-questions/](https://leetc
 
 ## Content
 
-[1. Two Sum]()
+|Sl. No   |Problem   |Solution   |
+|---|---|---|
+|1.   |[Two Sum](https://leetcode.com/problems/two-sum/)   |[Soltution]()   |
+|   |   |   |
