@@ -8,5 +8,8 @@ Link: [https://leetcode.com/problem-list/top-interview-questions/](https://leetc
 
 |Sl. No   |Problem   |Solution   |
 |---|---|---|
-|1.   |[Two Sum](https://leetcode.com/problems/two-sum/)   |[Soltution]()   |
-|   |   |   |
+|1.   |[Two Sum](https://leetcode.com/problems/two-sum/)   |[Solution](https://github.com/sampadk04/LeetCode_Solutions/blob/main/Top_Interview_Questions/Two_Sum.py)   |
+|2.   |[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)   |[Solution]()   |
+
+[To preview in VSCODE: Shift + CMD + V]: #
+[To add an extra row: |   |   |   |]: #̌̌̌
