@@ -1,3 +1,5 @@
+# Question Link: https://leetcode.com/problems/add-two-numbers/
+
 # Definition for singly-linked list.
 class ListNode:
     def __init__(self, val=0, next=None):
@@ -31,7 +33,7 @@ class Solution:
             # update the carry
             carry = curr_sum // 10
         
-        # If carry is still non-zero after traversing both lists
+        # if carry is still non-zero after traversing both lists
         if carry != 0:
             temp.next = ListNode(carry)
         
