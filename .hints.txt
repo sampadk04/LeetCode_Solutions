@@ -1,0 +1,29 @@
+# Using ChatGPT for Hints:
+
+1. Paste the Problem Statement.
+2. Use this prompt after the problem statement to ask for Hints.
+
+Example Prompt:
+
+Here is the problem statement:
+
+Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat vol.
+
+Help me solve this problem by giving me three different hint, where each hint should take me closer and closer to the solution. Make sure that Hints 1 and 2 do not directly give me the solution but rather the ideas necessary to guide me towards the solution. Only the final hint i.e., Hint 3 should give me the solution.
+
+# Using ChatGPT for Debugging:
+
+1. Paste the Problem Statement.
+2. Use this prompt after the problem statement for debugging.
+
+Here is the problem statement:
+
+Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat vol.
+
+Here is my attempted solution to this problem:
+
+class Solution:
+    def solution_function():
+        return solution
+
+Help me debug my attempted solution.
